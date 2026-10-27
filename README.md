@@ -1,0 +1,2 @@
+# FASTAPI-GEM-AI
+FASTAPI using GEM AI 
