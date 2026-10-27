@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "role": "Software Engineer",
+    "skills": ["Java", "Spring Boot", "Python"]
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "role": "Senior Software Engineer",
+    "skills": ["Python", "AWS", "Docker"]
+  },
+  {
+    "id": 3,
+    "name": "Mike",
+    "role": "Cloud Architect",
+    "skills": ["Java", "Azure", "GCP"]
+  },
+  {
+    "id": 4,
+    "name": "Lisa",
+    "role": "Senior Architect",
+    "skills": ["Python", "GCP", "Kubernetes"]
+  }
+]
